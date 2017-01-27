@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>A Guide to Northeast Grains</dc:title>
+<dc:identifier id="BookID" opf:scheme="CustomID">Guide to Northeast Grains</dc:identifier>
+<dc:language>en</dc:language>
+</metadata>
+
+<manifest>
+<item href="mystyles.css" id="css" media-type="text/css"/>
+<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+<item href="toc.xhtml" id="toc_page" media-type="application/xhtml+xml"/>
+<item href="titlepage.xhtml" id="title_page" media-type="application/xhtml+xml"/>
+<item href="chap01.xhtml" id="chap01_page" media-type="application/xhtml+xml" />
+<item href="chap02.xhtml" id="chap02_page" media-type="application/xhtml+xml" />
+<item href="chap03.xhtml" id="chap03_page" media-type="application/xhtml+xml" />
+<item href="chap04.xhtml" id="chap04_page" media-type="application/xhtml+xml" />
+<item href="chap05.xhtml" id="chap05_page" media-type="application/xhtml+xml" />
+<item href="chap06.xhtml" id="chap06_page" media-type="application/xhtml+xml" />
+<item href="chap07.xhtml" id="chap07_page" media-type="application/xhtml+xml" />
+<item href="chap08.xhtml" id="chap08_page" media-type="application/xhtml+xml" />
+<item href="chap09.xhtml" id="chap09_page" media-type="application/xhtml+xml" />
+<item href="chap10.xhtml" id="chap10_page" media-type="application/xhtml+xml" />
+<item href="chap11.xhtml" id="chap11_page" media-type="application/xhtml+xml" />
+<item href="chap12.xhtml" id="chap12_page" media-type="application/xhtml+xml" />
+<item href="chap13.xhtml" id="chap13_page" media-type="application/xhtml+xml" />
+<item href="chap14.xhtml" id="chap14_page" media-type="application/xhtml+xml" />
+<item href="chap15.xhtml" id="chap15_page" media-type="application/xhtml+xml" />
+<item href="chap16.xhtml" id="chap16_page" media-type="application/xhtml+xml" />
+<item href="chap17.xhtml" id="chap17_page" media-type="application/xhtml+xml" />
+<item href="chap18.xhtml" id="chap18_page" media-type="application/xhtml+xml" />
+<item href="chap19.xhtml" id="chap19_page" media-type="application/xhtml+xml" />
+<item href="chap20.xhtml" id="chap20_page" media-type="application/xhtml+xml" />
+<item href="chap21.xhtml" id="chap21_page" media-type="application/xhtml+xml" />
+</manifest>
+
+<spine toc="ncx">
+<itemref idref="title_page" linear="yes"/>
+<itemref idref="toc_page" linear="yes"/>
+<itemref idref="chap01_page" linear="yes" />
+<itemref idref="chap02_page" linear="yes" />
+<itemref idref="chap03_page" linear="yes" />
+<itemref idref="chap04_page" linear="yes" />
+<itemref idref="chap05_page" linear="yes" />
+<itemref idref="chap06_page" linear="yes" />
+<itemref idref="chap07_page" linear="yes" />
+<itemref idref="chap08_page" linear="yes" />
+<itemref idref="chap09_page" linear="yes" />
+<itemref idref="chap10_page" linear="yes" />
+<itemref idref="chap11_page" linear="yes" />
+<itemref idref="chap12_page" linear="yes" />
+<itemref idref="chap13_page" linear="yes" />
+<itemref idref="chap14_page" linear="yes" />
+<itemref idref="chap15_page" linear="yes" />
+<itemref idref="chap16_page" linear="yes" />
+<itemref idref="chap17_page" linear="yes" />
+<itemref idref="chap18_page" linear="yes" />
+<itemref idref="chap19_page" linear="yes" />
+<itemref idref="chap20_page" linear="yes" />
+<itemref idref="chap21_page" linear="yes" />
+</spine>
+
+<guide>
+<reference href="titlepage.xhtml" type="title-page" title="Title Page"/>
+<reference href="toc.xhtml" type="toc" title="Table of Contents"/>
+</guide>
+
+</package>

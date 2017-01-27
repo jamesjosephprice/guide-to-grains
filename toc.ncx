@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="HelloWorld" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="Me, myself and I" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>My First Epub</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="chap01_page" playOrder="1">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="chap01.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap02_page" playOrder="2">
+      <navLabel>
+        <text>Regional Grainshed</text>
+      </navLabel>
+      <content src="chap02.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap03_page" playOrder="3">
+      <navLabel>
+        <text>The New Grainshed</text>
+      </navLabel>
+      <content src="chap03.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap04_page" playOrder="4">
+      <navLabel>
+        <text>Interviewee Profiles: Faces of the New Grainshed</text>
+      </navLabel>
+      <content src="chap04.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap05_page" playOrder="5">
+      <navLabel>
+        <text>Grains 101</text>
+      </navLabel>
+      <content src="chap05.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap06_page" playOrder="6">
+      <navLabel>
+        <text>Your Local Grains</text>
+      </navLabel>
+      <content src="chap06.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap07_page" playOrder="7">
+      <navLabel>
+        <text>Buckwheat</text>
+      </navLabel>
+      <content src="chap07.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap08_page" playOrder="8">
+      <navLabel>
+        <text>Einkorn</text>
+      </navLabel>
+      <content src="chap08.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap09_page" playOrder="9">
+      <navLabel>
+        <text>Emmer</text>
+      </navLabel>
+      <content src="chap09.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap10_page" playOrder="10">
+      <navLabel>
+        <text>Rye</text>
+      </navLabel>
+      <content src="chap10.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap11_page" playOrder="11">
+      <navLabel>
+        <text>Spelt</text>
+      </navLabel>
+      <content src="chap11.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap12_page" playOrder="12">
+      <navLabel>
+        <text>Triticale</text>
+      </navLabel>
+      <content src="chap12.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap13_page" playOrder="13">
+      <navLabel>
+        <text>Wheat</text>
+      </navLabel>
+      <content src="chap13.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap14_page" playOrder="14">
+      <navLabel>
+        <text>Looking Ahead</text>
+      </navLabel>
+      <content src="chap14.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap15_page" playOrder="15">
+      <navLabel>
+        <text>Glossary</text>
+      </navLabel>
+      <content src="chap15.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap16_page" playOrder="16">
+      <navLabel>
+        <text>Resources</text>
+      </navLabel>
+      <content src="chap16.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap17_page" playOrder="17">
+      <navLabel>
+        <text>Books</text>
+      </navLabel>
+      <content src="chap17.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap18_page" playOrder="18">
+      <navLabel>
+        <text>Websites</text>
+      </navLabel>
+      <content src="chap18.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap19_page" playOrder="19">
+      <navLabel>
+        <text>Farmers</text>
+      </navLabel>
+      <content src="chap19.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap20_page" playOrder="20">
+      <navLabel>
+        <text>Bakeries</text>
+      </navLabel>
+      <content src="chap20.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap21_page" playOrder="21">
+      <navLabel>
+        <text>Works Cited</text>
+      </navLabel>
+      <content src="chap21.xhtml#chaptertitle"/>
+    </navPoint>
+  </navMap>
+</ncx>

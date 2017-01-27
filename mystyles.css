@@ -1,0 +1,12 @@
+p{text-indent: 1.5em; margin: 0em; text-align:justify; line-height: 1.5em;}
+p.boxes{text-indent: 0em; margin-top: 0em; margin-bottom: .75em; line-height: 1.1em;}
+p.first{text-indent: 0em;}
+p.cite{text-indent:-0.3in;margin-left:0.3in;}
+span.bold{font-weight: bold}
+li.bullet{line-height: 1.3em; margin-bottom: .75em}
+hr{margin-top: 0em; margin-bottom: .2em;}
+hr.follow{margin-top: -.5em; margin-bottom: 1em; font-weight: bold;}
+div.titlepage{text-align: center;}
+div.titlepage p.title{text-indent: 0em; text-align: center; font-size: 200%; font-weight: bold; margin-top: 2ex;}
+div.titlepage p.author{text-indent: 0em; text-align: center; font-size: 150%; font-weight: bold; margin-top: 3ex; margin-bottom: 10ex;}
+div.titlepage p.information{text-indent: 0em; text-align: left;}
