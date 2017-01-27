@@ -17,9 +17,13 @@
 <item href="chap05.xhtml" id="chap05_page" media-type="application/xhtml+xml" />
 <item href="chap06.xhtml" id="chap06_page" media-type="application/xhtml+xml" />
 <item href="chap07.xhtml" id="chap07_page" media-type="application/xhtml+xml" />
+<item href="chap07a.xhtml" id="chap07a_page" media-type="application/xhtml+xml" />
 <item href="chap08.xhtml" id="chap08_page" media-type="application/xhtml+xml" />
+<item href="chap08a.xhtml" id="chap08a_page" media-type="application/xhtml+xml" />
 <item href="chap09.xhtml" id="chap09_page" media-type="application/xhtml+xml" />
+<item href="chap09a.xhtml" id="chap09a_page" media-type="application/xhtml+xml" />
 <item href="chap10.xhtml" id="chap10_page" media-type="application/xhtml+xml" />
+<item href="chap10a.xhtml" id="chap10a_page" media-type="application/xhtml+xml" />
 <item href="chap11.xhtml" id="chap11_page" media-type="application/xhtml+xml" />
 <item href="chap12.xhtml" id="chap12_page" media-type="application/xhtml+xml" />
 <item href="chap13.xhtml" id="chap13_page" media-type="application/xhtml+xml" />
@@ -43,9 +47,13 @@
 <itemref idref="chap05_page" linear="yes" />
 <itemref idref="chap06_page" linear="yes" />
 <itemref idref="chap07_page" linear="yes" />
+<itemref idref="chap07a_page" linear="yes" />
 <itemref idref="chap08_page" linear="yes" />
+<itemref idref="chap08a_page" linear="yes" />
 <itemref idref="chap09_page" linear="yes" />
+<itemref idref="chap09a_page" linear="yes" />
 <itemref idref="chap10_page" linear="yes" />
+<itemref idref="chap10a_page" linear="yes" />
 <itemref idref="chap11_page" linear="yes" />
 <itemref idref="chap12_page" linear="yes" />
 <itemref idref="chap13_page" linear="yes" />
