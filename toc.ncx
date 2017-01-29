@@ -127,15 +127,21 @@
     </navPoint>
     <navPoint id="chap20_page" playOrder="20">
       <navLabel>
-        <text>Bakeries</text>
+        <text>Mills</text>
       </navLabel>
       <content src="chap20.xhtml#chaptertitle"/>
     </navPoint>
     <navPoint id="chap21_page" playOrder="21">
       <navLabel>
-        <text>Works Cited</text>
+        <text>Bakeries</text>
       </navLabel>
       <content src="chap21.xhtml#chaptertitle"/>
+    </navPoint>
+    <navPoint id="chap22_page" playOrder="22">
+      <navLabel>
+        <text>Works Cited</text>
+      </navLabel>
+      <content src="chap22.xhtml#chaptertitle"/>
     </navPoint>
   </navMap>
 </ncx>

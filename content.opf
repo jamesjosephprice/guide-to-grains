@@ -7,9 +7,12 @@
 
 <manifest>
 <item href="mystyles.css" id="css" media-type="text/css"/>
+<item href="titlepage.xhtml" id="title_page" media-type="application/xhtml+xml"/>
+<item href="images/hi-wheat.jpg" id="hi-wheat.jpg" media-type="image/jpeg"/>
+<item href="fulfillment.xhtml" id="fulfillment" media-type="application/xhtml+xml"/>
+<item href="copyright.xhtml" id="copyright" media-type="application/xhtml+xml"/>
 <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
 <item href="toc.xhtml" id="toc_page" media-type="application/xhtml+xml"/>
-<item href="titlepage.xhtml" id="title_page" media-type="application/xhtml+xml"/>
 <item href="chap01.xhtml" id="chap01_page" media-type="application/xhtml+xml" />
 <item href="chap02.xhtml" id="chap02_page" media-type="application/xhtml+xml" />
 <item href="chap03.xhtml" id="chap03_page" media-type="application/xhtml+xml" />
@@ -25,8 +28,11 @@
 <item href="chap10.xhtml" id="chap10_page" media-type="application/xhtml+xml" />
 <item href="chap10a.xhtml" id="chap10a_page" media-type="application/xhtml+xml" />
 <item href="chap11.xhtml" id="chap11_page" media-type="application/xhtml+xml" />
+<item href="chap11a.xhtml" id="chap11a_page" media-type="application/xhtml+xml" />
 <item href="chap12.xhtml" id="chap12_page" media-type="application/xhtml+xml" />
+<item href="chap12a.xhtml" id="chap12a_page" media-type="application/xhtml+xml" />
 <item href="chap13.xhtml" id="chap13_page" media-type="application/xhtml+xml" />
+<item href="chap13a.xhtml" id="chap13a_page" media-type="application/xhtml+xml" />
 <item href="chap14.xhtml" id="chap14_page" media-type="application/xhtml+xml" />
 <item href="chap15.xhtml" id="chap15_page" media-type="application/xhtml+xml" />
 <item href="chap16.xhtml" id="chap16_page" media-type="application/xhtml+xml" />
@@ -35,10 +41,13 @@
 <item href="chap19.xhtml" id="chap19_page" media-type="application/xhtml+xml" />
 <item href="chap20.xhtml" id="chap20_page" media-type="application/xhtml+xml" />
 <item href="chap21.xhtml" id="chap21_page" media-type="application/xhtml+xml" />
+<item href="chap22.xhtml" id="chap22_page" media-type="application/xhtml+xml" />
 </manifest>
 
 <spine toc="ncx">
 <itemref idref="title_page" linear="yes"/>
+<itemref idref="fulfillment" linear="yes"/>
+<itemref idref="copyright" linear="yes"/>
 <itemref idref="toc_page" linear="yes"/>
 <itemref idref="chap01_page" linear="yes" />
 <itemref idref="chap02_page" linear="yes" />
@@ -55,8 +64,11 @@
 <itemref idref="chap10_page" linear="yes" />
 <itemref idref="chap10a_page" linear="yes" />
 <itemref idref="chap11_page" linear="yes" />
+<itemref idref="chap11a_page" linear="yes" />
 <itemref idref="chap12_page" linear="yes" />
+<itemref idref="chap12a_page" linear="yes" />
 <itemref idref="chap13_page" linear="yes" />
+<itemref idref="chap13a_page" linear="yes" />
 <itemref idref="chap14_page" linear="yes" />
 <itemref idref="chap15_page" linear="yes" />
 <itemref idref="chap16_page" linear="yes" />
@@ -65,6 +77,7 @@
 <itemref idref="chap19_page" linear="yes" />
 <itemref idref="chap20_page" linear="yes" />
 <itemref idref="chap21_page" linear="yes" />
+<itemref idref="chap22_page" linear="yes" />
 </spine>
 
 <guide>
