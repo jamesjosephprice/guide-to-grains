@@ -2,12 +2,12 @@ h3{margin-bottom: .5em;}
 p{text-indent: 1.5em; margin: 0em; text-align:justify; line-height: 1.5em;}
 p.boxes{text-indent: 0em; margin-top: 0em; margin-bottom: .75em; line-height: 1.1em;}
 p.first{text-indent: 0em;}
-p.spaced{margin-bottom: .33em;}
+p.spaced{text-indent: 0em; margin-bottom: .33em;}
 p.cite{text-indent:-0.3in;margin-left:0.3in;}
 span.bold{font-weight: bold}
 li.bullet{line-height: 1.3em; margin-bottom: .75em}
 li.tab{text-indent: 1.5em;}
-li.recipe{line-height: 1.1em; margin-bottom: .33em;}
+li.recipe{text-indent: 0em; line-height: 1.1em; margin-bottom: .33em;}
 hr{margin-top: 0em; margin-bottom: .2em;}
 hr.follow{margin-top: -.5em; margin-bottom: 1em;}
 hr.follow2{margin-top: 0em; margin-bottom: 1em;}
