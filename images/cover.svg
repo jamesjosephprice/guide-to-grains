@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="500"
+   height="800"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-252.36218)"
+     id="layer1">
+    <rect
+       width="481.42856"
+       height="775.71429"
+       x="11.142857"
+       y="265.21933"
+       id="rect2985"
+       style="opacity:0.97000002;fill:#fff066;fill-opacity:1;stroke:#666666;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="464.3259"
+       y="388.07648"
+       id="text3775"
+       xml:space="preserve"
+       style="font-size:120px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:100.99999905%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans Bold"><tspan
+         x="464.3259"
+         y="388.07648"
+         id="tspan3777">My</tspan><tspan
+         x="464.3259"
+         y="509.27649"
+         id="tspan3779">First</tspan><tspan
+         x="464.3259"
+         y="630.4765"
+         id="tspan3781">ePub</tspan></text>
+    <text
+       x="129.14285"
+       y="725.2193"
+       id="text3783"
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans Bold"><tspan
+         x="129.14285"
+         y="725.2193"
+         id="tspan3785">By Your-Name-Here</tspan></text>
+    <text
+       x="21.428574"
+       y="923.79071"
+       id="text3789"
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans Bold"><tspan
+         x="21.428574"
+         y="923.79071"
+         id="tspan3791">A compelling tale of learning</tspan><tspan
+         x="21.428574"
+         y="963.79071"
+         id="tspan3797">and comprehension</tspan></text>
+  </g>
+</svg>

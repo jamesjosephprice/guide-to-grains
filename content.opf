@@ -7,6 +7,7 @@
 
 <manifest>
 <item href="mystyles.css" id="css" media-type="text/css"/>
+<item href="cover.xhtml" id="cover_page" media-type="application/xhtml+xml"/>
 <item href="titlepage.xhtml" id="title_page" media-type="application/xhtml+xml"/>
 <item href="images/hi-wheat.jpg" id="hi-wheat.jpg" media-type="image/jpeg"/>
 <item href="fulfillment.xhtml" id="fulfillment" media-type="application/xhtml+xml"/>
@@ -49,6 +50,7 @@
 </manifest>
 
 <spine toc="ncx">
+<itemref idref="cover_page" linear="yes"/>
 <itemref idref="title_page" linear="yes"/>
 <itemref idref="fulfillment" linear="yes"/>
 <itemref idref="copyright" linear="yes"/>
@@ -89,6 +91,7 @@
 </spine>
 
 <guide>
+<reference href="cover.xhtml" type="cover" title="Cover"/>
 <reference href="titlepage.xhtml" type="title-page" title="Title Page"/>
 <reference href="toc.xhtml" type="toc" title="Table of Contents"/>
 </guide>
